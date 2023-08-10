@@ -6,7 +6,7 @@ INOVAÇÃO ⚡
 
 
 <div align="center">
-  <a href="https://github.com/MiguelDamascena">
+  <a href="https://github.com/MiguelAllison">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MiguelAllison&show_icons=true&theme=darke&include_all_commits=true&count_private=true"/>
   <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAllison&layout=compact&langs_count=7&theme=dark"/>
 </div>
